@@ -1,0 +1,5 @@
+Javier Pérez;jperez@gmail.com;jperez;12345
+Nicolás Simarro;nicosima78@gmail.com;nicolas.simarro;Nicosima_111
+Pedro Sánchez;pedrito@presidente.es;pedro;12345
+Isabel Ayuso;ayuso@lajefamadrid.es;ayuso;ayuso2023
+manuel ortega;manuel.ortega@gmail.com;manuel.ortega;manuel.ortega

@@ -1,0 +1,748 @@
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\peref\source\repos\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\peref\Downloads\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\nicolas.simarro\Desktop\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\pw-pfrontera\Downloads\wetransfer_tfgplastic-web_2023-10-18_2117\wetransfer_tfgplastic-web_2023-10-18_2117\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Lab\Nicolas\TFGPlastic.WebTFG\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Lab\Nicolas\TFGPlastic.WebNicolasSimarro (2)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.WebNico\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\nicolas.simarro\Desktop\TFGPlastic.WebNicolasSimarro (1)\TFGPlastic.WebNicolasSimarro\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\pw-pfrontera\Downloads\TFGPlastic.Web\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicolas.simarro\Desktop\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.staticwebassets.runtime.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.exe
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.deps.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.runtimeconfig.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.UseCases.pdb
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Core.pdb
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\bin\Debug\net6.0\TFGPlastic.Infrastructure.pdb
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.AssemblyReference.cache
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfoInputs.cache
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.AssemblyInfo.cs
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cache
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.RazorAssemblyInfo.cs
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.TFGPlastic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TFGPlastic.Web.props
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\bundle\TFGPlastic.Web.styles.css
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\scopedcss\projectbundle\TFGPlastic.Web.bundle.scp.css
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.csproj.CopyComplete
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\refint\TFGPlastic.Web.dll
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.pdb
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\TFGPlastic.Web.genruntimeconfig.cache
+C:\Users\nicolas.simarro\Downloads\TFGPLASTICWEBNICOLAS (2)\TFGPLASTICWEBNICOLAS\TFGPlastic.Web\TFGPlastic.Web\obj\Debug\net6.0\ref\TFGPlastic.Web.dll

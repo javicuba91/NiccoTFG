@@ -1,0 +1,56 @@
+﻿@page
+@model SubirTarea
+@{
+    ViewData["Title"] = "Crear tarea";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        Pagina para subir tarea
+    </h1>
+
+
+    <!-- Formulario para insertar el nombre -->
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-header">
+                Formulario para Tarea
+            </div>
+            <div class="card-body">
+                <form method="post">
+
+                    <!-- Campo Título -->
+                    <div class="form-group">
+                        <label for="Titulo">Título:</label>
+                        <input type="text" class="form-control" id="Titulo" name="Titulo" placeholder="Título" required />
+                    </div>
+
+                    <!-- Campo Descripción -->
+                    <div class="form-group">
+                        <label for="Descripcion">Descripción:</label>
+                        <input type="text" class="form-control" id="Descripcion" name="Descripcion" placeholder="Descripción" required />
+                    </div>
+
+                    <!-- Campo Fecha de Publicación -->
+                    <div class="form-group">
+                        <label for="FechaPublicacion">Fecha de Publicación:</label>
+                        <input type="date" class="form-control" id="FechaPublicacion" name="FechaPublicacion" required />
+                    </div>
+                   
+                    <!-- Botón de Envío -->
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @if (Model.Tarea != null)
+    {
+        <div>
+            <p><strong>Id de la tarea:</strong> @Model.Tarea.Id</p>
+            <p><strong>Título de la tarea:</strong> @Model.Tarea.Titulo</p>
+            <p><strong>Descripcion de la tarea:</strong> @Model.Tarea.Descripcion</p>
+        </div>
+    }
+</div>

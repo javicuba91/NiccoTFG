@@ -1,0 +1,47 @@
+﻿@page
+@using TFGPlastic.Core.Enum;
+@model CambiarEstadoTarea
+@{
+    ViewData["Title"] = "Cambiar estado tarea";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        Pagina para subir tarea
+    </h1>
+
+
+    <!-- Formulario para insertar el nombre -->
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-header">
+                Formulario para Tarea
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="form-group">
+                        <label for="tareaId">Identificador de Tarea:</label>
+                        <input type="text" id="tareaId" name="tareaId" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="estadoTarea">Estado de Tarea:</label>
+                        <select id="EstadoTarea" name="EstadoTarea" class="form-control">
+                            @foreach (var estado in Enum.GetValues(typeof(EstadosTarea)))
+                            {
+                                <option value="@estado">@estado</option>
+                            }
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @if (Model.Tarea != null)
+    {
+        <div>            
+            <p><strong>Estado de la tarea es:</strong> @Model.Tarea.Estado</p>
+        </div>
+    }
+</div>

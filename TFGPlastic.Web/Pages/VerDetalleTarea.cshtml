@@ -1,0 +1,30 @@
+﻿@page
+@model VerDetalleTarea
+@{
+    ViewData["Title"] = "Crear tarea";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        Pagina para mostrar tarea
+    </h1>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="tareaId">Identificador de Tarea:</label>
+            <input type="text" id="tareaId" name="tareaId" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Mostrar Detalle</button>
+    </form>
+
+    @if (Model.Tarea != null)
+    {
+        <div>
+            <p><strong>Id de la tarea:</strong> @Model.Tarea.Id</p>
+            <p><strong>Título de la tarea:</strong> @Model.Tarea.Titulo</p>
+            <p><strong>Descripcion de la tarea:</strong> @Model.Tarea.Descripcion</p>
+            <p><strong>Estado de la tarea:</strong> @Model.Tarea.Estado</p>
+        </div>
+    }
+
+</div>

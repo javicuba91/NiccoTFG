@@ -1,0 +1,129 @@
+﻿@page
+@model WorkSpaceModel
+@{
+    ViewData["Title"] = "WorkSpaces";
+}
+
+@using System.Net.Http.Headers;
+@using System.Net.Http.Formatting;
+@using TFGPlastic.Core.Entity;
+@using Microsoft.AspNetCore.Identity;
+@using Microsoft.AspNetCore.Authentication;
+
+@{
+    var usernameClaim = User.FindFirst("username");
+    var nombreUsuario = User.FindFirst("nombre");
+
+    var username = "";
+
+    if (usernameClaim != null && !string.IsNullOrEmpty(usernameClaim.Value))
+    {
+        username = usernameClaim.Value;
+    }
+    else
+    {
+        // Redireccionar a la página de inicio de sesión
+         RedirectToPage("/Login");
+    }
+
+
+}
+
+<div class="text-center">
+    <h4 class="display-4">
+        <i class="fa fa-cogs"></i>WorkSpaces de <b class="text-danger">@nombreUsuario?.Value</b>
+    </h4>
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row mb-3">
+                    <div class="col-lg-12">
+                        <button type="button" class="btn btn-primary float-end" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                           <i class="fa fa-plus"></i> Añadir
+                        </button>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        Listado de Workspaces
+                    </div>
+                    <div class="card-body">
+                           <table class="table table-striped table-responsive">
+                                <thead>
+                                    <tr>
+                                        <td>Nombre</td>
+                                        <td>Guid</td>
+                                        <td>Ruta</td>
+                                        <td>Máquina</td>
+                                        <td>Opciones</td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                @{
+                                    var workspaces = await ConexionPlastic.mostrarWorkSpaces();
+
+                                    foreach (var workspace in workspaces)
+                                    {
+                                        <tr>
+                                            <td>@workspace.Name</td>
+                                            <td>@workspace.Guid</td>
+                                            <td>@workspace.Path</td>
+                                            <td>@workspace.MachineName</td>
+                                            <td>
+                                                <div class="row">
+                                                    <div class="col-lg-6">
+                                                        @{
+                                                            var workspaceParameter = @workspace.Name;
+                                                            var workspaceUrl = Url.Page("/Tasks", new { workspace = workspaceParameter });
+                                                        }
+                                                        <a class="btn btn-success w-100" href="@workspaceUrl"><i class="fa fa-list"></i></a>
+                                                    </div>
+                                                    <div class="col-lg-6">
+                                                        <form asp-action="Eliminar" asp-controller="WorkSpace" method="post">
+                                                            <input type="hidden" name="nombre" value="@workspace.Name" />
+                                                            <button class="btn btn-danger w-100" type="submit"><i class="fa fa-trash"></i></button>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </td>                                            
+                                        </tr>
+                                    }
+                                }
+                                </tbody>
+                           </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">Crear WorkSpace</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                @using (Html.BeginForm("WorkSpaceCreate", "WorkSpace", FormMethod.Post))
+                   {
+                    <div class="modal-body">                   
+                            <div class="form-group mb-3">
+                                <label for="nombre">Nombre WorkSpace:</label>
+                                <input type="text" id="nombre" name="nombre" class="form-control" required/>
+                            </div>
+                            <div class="form-group mb-3">
+                                <label for="ruta">Ruta WorkSpace:</label>
+                            <input type="text" id="ruta" name="ruta" class="form-control" required />
+                            </div>                  
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                        <button type="submit" class="btn btn-primary">Guardar</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+</div>

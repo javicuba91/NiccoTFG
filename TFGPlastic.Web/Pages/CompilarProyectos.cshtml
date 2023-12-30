@@ -1,0 +1,22 @@
+﻿@page
+@model CompilarProyectos
+@{
+    ViewData["Title"] = "Compilar proyectos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        Pagina para mostrar tarea
+    </h1>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="CompilePath">Ruta fisica proyectos a compilar:</label>
+            <input type="text" id="CompilePath" name="CompilePath" class="form-control" placeholder="C:\folderToCompileExample"/>
+        </div>
+        <button type="submit" class="btn btn-primary">Compilar</button>
+    </form>
+
+
+
+</div>

@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        Example Of CQRS
+    </h1>
+
+
+    <!-- Formulario para insertar el nombre -->
+    <form method="post">
+        <input type="text" name="Name" placeholder="Inserta tu nombre" required />
+        <button type="submit" asp-page-handler="SubmitName">Enviar</button>
+    </form>
+
+    @if (Model.Order != null)
+    {
+        <div>
+            <p><strong>Order ID:</strong> @Model.Order.OrderId</p>
+            <p><strong>Customer Name:</strong> @Model.Order.CustormerName</p>
+        </div>
+    }
+</div>
